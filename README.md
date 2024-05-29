@@ -1,0 +1,1 @@
+This Todo List App is a simple and intuitive application designed to help users manage their daily tasks efficiently. Built with React, JavaScript, HTML, and CSS.
